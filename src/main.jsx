@@ -13,7 +13,7 @@ import Contact from "./pages/contact.jsx";
 import Services from "./pages/services.jsx";
 import Navbar from "./components/navbar/navbar.jsx";
 import { AppProvider } from "./state/app-context.jsx";
-import TodoApp from "./todo.jsx";
+import TodoApp from "./todo-app.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
