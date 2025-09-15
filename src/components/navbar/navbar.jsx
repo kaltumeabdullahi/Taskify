@@ -7,7 +7,7 @@ const Navbar = () => {
   // Array of navbar links
   const links = [
     { name: "Home", href: "/" },
-    { name: "About", href: "/about" },
+    { name: "Todo", href: "/todo" },
     { name: "Services", href: "/services" },
     { name: "Contact", href: "/contact" },
   ];
